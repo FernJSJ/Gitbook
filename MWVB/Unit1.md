@@ -147,4 +147,3 @@
 * **reprobate**
     * A person of thoroughly bad character.
     * > His wife finally left him, claiming he was a reprobate who would disappear for weeks at a time, gambling and drinking away all his money.
-

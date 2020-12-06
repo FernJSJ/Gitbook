@@ -1,2 +1,0 @@
-# Word Power Made Easy
-
