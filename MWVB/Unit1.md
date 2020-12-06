@@ -79,7 +79,7 @@
     * Open defiance and opposition, sometimes armed, to a person or thing in authority.
     * > A student rebellion that afternoon in Room 13 resulted in the new substitute teacher racing out of the building in tears.
 
-## 4. **PAC**
+## 4. **pac**
 * *Latin* words for **agree** and **peace**
 
 * **pacify**
@@ -147,3 +147,89 @@
 * **reprobate**
     * A person of thoroughly bad character.
     * > His wife finally left him, claiming he was a reprobate who would disappear for weeks at a time, gambling and drinking away all his money.
+
+## 7. **grav**
+* *Latin* **heavy, weighty, serious**
+
+* **gravity**
+    * what makes things heavy, and without it there wouldn't be any life on earth, since nothing would stay on earth at all.
+
+* **grave**
+    * (1) Requiring serious thought or concern
+    * (2) Serious and formal in appearance or manner
+    * > We relized that the situation was grave and that the slightest incident could spark all-out war.
+
+* **gravitas**
+    * Great or very dignified seriousness
+    * > The head of the committee never failed to carry herself with the gravitas she felt was appropriate to her office.
+
+* **gravitate**
+    * To move or be drawn toward something, especially by natural tendency or as if by an invisible force.
+    * > On hot evenings, the town's social life gravitated toward the lakefront(湖畔), where you could stroll the long piers(码头) eating ice cream or dance at the old Casino(赌场).
+
+* **aggravate**
+    * (1) To make (an injury, problem, etc) more serious or servere
+    * (2) To annoy or bother
+    * > She went back to the soccer team before the knee was completely healed, which naturally aggravated the injury.
+
+## 8. **lev**
+* *Latin* **light**
+
+* **levare**
+    * verb, meaning "to raise or lighten"
+
+* **lever**
+    * a bar used to lift something, by means of **leverage**
+
+* **levitation**
+    * the magician's trick in which a body seems to rise into the air by itself
+
+* **alleviate**
+    * To lighten, lessen, or relieve, especially physical or mental suffering
+    * > Cold compresses(冷敷) alleviated the pain of the physical injury, but only time could alleviate the effect of the insult(侮辱).
+
+* **elevation**
+    * (1) The height of a place
+    * (2) The act or result of lifting or raising someone or something.
+    * > Her doctor is concerned about the elevation of her blood pressure since her last visit.
+
+* **cantilever**
+    * A long piece of wood, metal,  etc., that sticks out from a wall to support something above it.
+    * > The house's deck(甲板), supported by cantilevers(悬臂), jutted out dramatically over the rocky slope, and looking over the edge made him dizzy.
+
+* **levity**
+    * Lack of appropriate seriousness
+    * > The Puritan(清教徒) elders tried to ban levity of all sorts from the community's meetings, but found it increasingly difficult to control the younger generation.
+
+## Words from Mythology and History
+* **cicerone**
+    * A guide, especially one who takes tourists to museums, monuments, or architectural sites and explains what is being seen
+    * > On Crete they sought out a highly recommended cicerone, hoping to receive the best possible introduction to the noteworthy historical sites.
+
+* **hector**
+    * To bully or harass(骚扰) by bluster(咆哮) or personal pressure
+    * > He would swagger around the apartment entrance with his friends and hector the terrified inhabititants going in and out.
+
+* **hedonism**
+    * An attitude or way of life based on the idea that pleasure or happiness should be the chief goal.
+    * > In her new spirit of hedonism, she went out for a massage, picked up champagne(香槟) and chocolate truffles, and made a date that evening with an old boyfriend.
+
+* **nestor**
+    * A senior figure or leader in one's field
+    * > The guest of honor was a nestor among journalists, and after dinner he shared some of his wisdom with the audience.
+
+* **spartan**
+    * Marked by simplicity, avoidance of luxury, and often strict self-discipline or self-denial
+    * > When he was single, he had lived a spartan life in a tiny, undecorated apartment with one chair, a table, and a bed.
+
+* **stentorian**
+    * Extremely loud, often with especially deep richness of sound
+    * > Even without a microphone(麦克风), his stentorian voice was clearly audible in the last rows of the auditorium(礼堂).
+
+* **stoic**
+    * Seemingly indifferent to pleasure or pain
+    * > She bore the pain of her broken leg with such stoic patience that most of us had no idea she was suffering.
+
+* **sybaritic**
+    * Marked by a luxurious or sensual way of life
+    * > When I knew them they were living a sybaritic existence - hopping from resort(度假胜地) to resort, each more splendid than the last - but a year later the money ran out.
