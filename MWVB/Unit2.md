@@ -126,7 +126,7 @@
     * > Her ambitions were infinite, but her wealth was finite.
     * Finite is mostly used in scientific writing, often with the meaning "definitely measurable"
 
-* infinitesimal**
+* **infinitesimal**
     * Extremely or immeasurably small
     * > Looking more closely at the research data, he now saw an odd pattern of changes so infinitesimal that they hadn't been noticed before.
     * **infinite** describes something immeasurable("without limit"). **infinitesimal** describes something endlessly small.
