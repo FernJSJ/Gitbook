@@ -157,7 +157,7 @@
 * **grave**
     * (1) Requiring serious thought or concern
     * (2) Serious and formal in appearance or manner
-    * > We relized that the situation was grave and that the slightest incident could spark all-out war.
+    * > We realized that the situation was grave and that the slightest incident could spark all-out war.
 
 * **gravitas**
     * Great or very dignified seriousness
@@ -168,7 +168,7 @@
     * > On hot evenings, the town's social life gravitated toward the lakefront(湖畔), where you could stroll the long piers(码头) eating ice cream or dance at the old Casino(赌场).
 
 * **aggravate**
-    * (1) To make (an injury, problem, etc) more serious or servere
+    * (1) To make (an injury, problem, etc) more serious or severe
     * (2) To annoy or bother
     * > She went back to the soccer team before the knee was completely healed, which naturally aggravated the injury.
 
@@ -208,7 +208,7 @@
 
 * **hector**
     * To bully or harass(骚扰) by bluster(咆哮) or personal pressure
-    * > He would swagger around the apartment entrance with his friends and hector the terrified inhabititants going in and out.
+    * > He would swagger around the apartment entrance with his friends and hector the terrified inhabitants going in and out.
 
 * **hedonism**
     * An attitude or way of life based on the idea that pleasure or happiness should be the chief goal.
