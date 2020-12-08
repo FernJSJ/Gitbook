@@ -130,3 +130,72 @@
     * Extremely or immeasurably small
     * > Looking more closely at the research data, he now saw an odd pattern of changes so infinitesimal that they hadn't been noticed before.
     * **infinite** describes something immeasurable("without limit"). **infinitesimal** describes something endlessly small.
+
+## 5. **ject**
+* *Latin* **throw** or **hurl**
+
+* **reject**
+    * to reject something is to throw (or push) it back
+
+* **eject**
+    * to eject something is to throw (or drive) it out
+
+* **inject**
+    * to inject something is to throw (or squirt) it into something else
+
+* **interject**
+    * To interrupt a conversation with a comment or remark
+    * > His anger was growing as he listened to the conversation, and every so often he would inject a crude comment.
+    * *Latin* , **interject** ought to mean literally "throw between". The only things that have been interjected have been comments dropped suddenly into a conversation. **Interjections** are often humorous, and sometimes even insulting, and the best interjections are so quick that the conversation isn't even interrupted.
+
+* **conjecture**
+    * To guess
+    * > He was last heard of on Bogota, and they conjectured that he had met his end in the Andes at the hands of the guerrillas.
+    * **con-** means **together**
+    * **conjecture** means literally "to throw together" —— that is, to produce a theory by putting together a number of facts.
+
+* **projection**
+    * An estimate of what might happen in the future based on what is happening now
+    * > The president has been hearing different deficit projections all week from the members of his economic team.
+    * **Projection** has various meanings, but what they all have in common is that something is sent out or forward. A movie is **projected** onto a screen; a skilled actress projects her voice out into a large theater without seeming to shout; and something sticking out from a wall can be called a projection. But the meaning we focus on here is the one used by businesses and government. Most projections of this kind are estimates of a company's sales or profits —— or of the finances of a town, state, or country —— sometime in the future
+
+* **trajectory**
+    * The curved path that an object makes in space, or that a thrown object follows as it rises and falls to earth
+    * > Considering the likely range, trajectory, and accuracy of a bullet fired from a cheap handgun at 100 years, the murder seemed incredible.
+    * **trans** means **across**
+    * **trajectory** means a "hurling across"
+
+## 6. **tract**
+* *Latin* **drag or draw**
+
+* **attractive**
+    * Something attractive draws us toward it
+
+* **distracting**
+    * Something distracting pulls your attention away
+
+* **extract**
+    * When you extract something from behind the sofa, you drag it out
+
+* **traction**
+    * The friction that allows a moving thing to move over a surface without slipping
+    * > The spinning wheels were getting no traction on the ice, and we began to slip backward down the hill.
+    * A **tractor** is something that pulls something else.
+
+* **retract**
+    * (1) To pull back (something) into something larger
+    * (2) To take back (something said or written)
+    * > She was forced to retract her comment about her opponent after it was condemned in the press.
+    * **re-** means **back**
+    * Just as a cat retracts its claws into its paws when they aren't being used, a public figure may issue a **retraction** in order to say that he or she no longer wants to say something that has just been said.
+
+* **protracted**
+    * Drawn out, continued, or extended
+    * > No one was looking forward to a protracted struggle for custody of the baby.
+    * **pro** means **forward**
+    * **protracted** usually applies to something drawn out forward in time
+
+* **intractable**
+    * Not easily handled, let, taught, or controlled
+    * > Corruption in the army was the country's intractable problem, and for many years all foreign aid had ended up in the colonel's pockets.
+    * **Intractable** simply means "untreatable", and even comes from the same root
