@@ -263,3 +263,38 @@
     * A statement that does not follow logically from anything previously said
     * > Rattled by the question, his mind went blank, and he blurted out a non sequitur that fetched a few laughs from members of the audience.
     * **Non sequitur** is actually a complete sentence in *Latin*, meaning "It does not follow"  —— that is, something said or written doesn't logically follow what came before it.
+
+## Words from Mythology
+* **Apollonian**
+    * Harmonious, ordered, rational, calm
+    * > After a century of Romantic emotion, some composers adopted a more Apollonian style, producing clearly patterned pieces that avoided extremes of all kinds.
+
+* **bacchanalian**
+    * Frenzied, orgiastic
+    * > The bacchanalian partying on graduation night resulted in three wrecked cars, two lawsuits by unamused parents, and more new experiences than most of the participants could remember the next day.
+
+* **delphic**
+    * Unclear, ambiguous, or confusing
+    * All she could get form the strange old woman were a few delphic comments that left her more confused than ever about the missing documents.
+
+* **Dionysian**
+    * Frenzied, delirious
+    * > Only in the tropics(热带) did such festivals become truly Dionysian, he said, which was why he was booking(预订) his flight to Rio.
+
+* **jovial**
+    * Jolly, good-natured
+    * > Their grandfather was as jovial and sociable as their grandmother was quiet and withdrawn.
+    
+* **mercurial**
+    * Having rapid and unpredictable changes of mood
+    * > His mother's always mercurial temper because even more unpredictable, to the point where the slightest thing would trigger a violent fit.
+
+* **Olympian**
+    * Lofty, superior, and detached
+    * > Now 77, he moved slowly and spoke to the younger lawyers in Olympian tones, but his college friends could remember when he was a brash, crazy risk-taker.
+    * **olympian** describes someone who seems "lofty" and "above it all", as if surveying a scene in which other people appear the size of ants. **Olympian** today actually most often refers to Olympic athletes.
+
+* **venereal**
+    * Having to do with sexual intercourse or diseases transmitted by it
+    * > In the 19th century syphilis(梅毒) especially was often fatal, and venereal diseases killed some of the greatest figures of the time.
+    * Today the official term is **sexually transmitted disease**, or STD; but even this name turns out to be ambiguous, since some of these diseases can be contracted in other ways as well.  
