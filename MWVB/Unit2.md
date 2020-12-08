@@ -198,4 +198,68 @@
 * **intractable**
     * Not easily handled, let, taught, or controlled
     * > Corruption in the army was the country's intractable problem, and for many years all foreign aid had ended up in the colonel's pockets.
-    * **Intractable** simply means "untreatable", and even comes from the same root
+    * **Intractable** simply means "untreatable", and even comes from the same root. The word describe both people and conditions.
+
+## 7. **duc/duct**
+* *Latin* **to lead**
+
+* **duke**
+    * means basically **leader**
+
+* **duce**
+    * *Italian* **the leader**
+
+* **produce** and **reduce** contain the root
+
+* **conducive**
+    * Tending to promote, encourage, or assist; helpful
+    * > She found the atmosphere in the quiet cafe conducive to study and even to creative thinking.
+    * Something conducive "leads to" a desirable result. Conducive is almost always followed by to.
+
+* **deduction**
+    * (1) Subtraction
+    * (2) The reaching of a conclusion by reasoning
+    * > Foretelling the future by deduction based on a political or economical theory has proved to be extremely difficult.
+    * The **deduct** is simply to subtract. Your insurance **deductible** is the amount of a medical bill that the insurance company makes you subtract before it starts to pay —— in other words, the amount that will come out of your own pocket. But **deduction** also meaning "reasoning", and particularly reasoning based on general principles to produce specific findings.
+
+* **induce**
+    * (1) Persuade, influence
+    * (2) Bring about
+    * > To induce him to make the call we had to promise we wouldn't do it again.
+    * **Inducing** is usually gentle persuasion. An **inducement** is something that might lure you to do something, though inducements are occasionally a bit menacing, like the Godfather's offer that you can't refuse. **Induce** also sometimes means "produce". **Induct** and **induction** are somewhat different from **induce** and **inducement**, though they come from the identical roots. 
+
+* **seduction**
+    * (1) Temptation to sin, especially temptation to sexual intercourse
+    * (2) Attraction or charm
+    * > The company began its campaign of seduction of the smaller firm by inviting its top management to a series of weekends at expensive resorts.
+    * **se-** **aside**
+    * **Seduction** means basically "lead aside or astray". **Seduction** also takes less physical forms. Advertisements constantly try to seduce us (often using sex as a temptation) into buying products we hadn't even known existed.
+
+## 8. **sequ**
+* *Latin* **to follow**
+
+* **sequel**
+    * A sequel follows the original novel, film, or television show
+
+* **sequential**
+    * (1) Arranged in order or in a series
+    * (2) Following in a series
+    * > In writing the history of the revolution, his challenge was to put all the events of those fateful days in proper sequential order.
+    * Things in **sequence**, or regular order, are arranged **sequentially**.
+
+* **subsequent**
+    * Following in time, order, or place; later
+    * > Through all her subsequent love affairs, she never stopped thinking about the man who got away.
+    * **sub-** means **below**
+    * The sub- in **subsequent** seems to imply that everything after the first is somehow inferior. But **subsequently**, as in "I subsequently learned the real story," simply means "later"
+
+* **consequential**
+    * (1) Resulting
+    * (2) Important
+    * > None of our discussions thus far has been very consequential; next week's meeting will be the important one.
+    * The "resulting" meaning of **consequential** is usually seen in legal writing. But normally **consequential** means "significant" or "important", and it's especially used for events that will produce large **consequences**, or results.
+
+* **non sequitur**
+    * A statement that does not follow logically from anything previously said
+    * > Rattled by the question, his mind went blank, and he blurted out a non sequitur that fetched a few laughs from members of the audience.
+    * **Non sequitur** is actually a complete sentence in *Latin*, meaning "It does not follow"  —— that is, something said or written doesn't logically follow what came before it.
