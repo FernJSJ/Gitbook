@@ -94,7 +94,7 @@
     * (1) Involving an assumption made for the sake of argument or for further study or investigation
     * (2) Imagined for purposes of example
     * > The candidate refused to say what she would do if faced with a hypothetical military crisis.
-    * *Greek* **foundation** or **base** —— that is something **put under** something else.
+    * **hypothesis** comes from *Greek* **foundation** or **base** —— that is something **put under** something else.
     * A **hypothesis** is something you assume to be true in  order that you can use it as the base or basis for a line of reasoning —— and any such assumption can be called hypothetical. Once a **hypothesis** has been thoroughly studied and researched without being proved wrong, it generally comes to be called a theory instead.
 
 ## 4. **therm/thermo**
