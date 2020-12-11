@@ -174,7 +174,7 @@
 
 * **primal**
     * Basic or primitive
-    * There was always a primal pleasure in listening to the rain beat on the roof at night and dropping off to sleep in front of the fire.
+    * > There was always a primal pleasure in listening to the rain beat on the roof at night and dropping off to sleep in front of the fire.
 
 * **primer**
     * (1) A small book for teaching children to read
