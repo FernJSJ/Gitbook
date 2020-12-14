@@ -9,7 +9,7 @@
 * the ending **-ivorous** shows up in words that refer to eaters of certain kinds of food
 
 * **Frugivorous**
-    **fruit-eating**
+    * **fruit-eating**
 
 * **granivorous**
     * **gain-eating**
