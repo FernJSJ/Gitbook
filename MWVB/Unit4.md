@@ -8,11 +8,11 @@
 * *Latin* **to eat**
 * the ending **-ivorous** shows up in words that refer to eaters of certain kinds of food
 
-* **Frugivorous**
+* **frugivorous**
     * **fruit-eating**
 
 * **granivorous**
-    * **gain-eating**
+    * **grain-eating**
 
 * **graminivorous**
     * **grass-eating**
