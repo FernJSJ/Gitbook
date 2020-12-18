@@ -168,6 +168,128 @@
     * To correct something is to make it right.
 
 * **rectangle**
+    * A rectangle is a four-sided figure with straight parallel sides
 
+* **rectus**
+    * Short for *Latin* rectus musculus, may refer to any of several straight muscles, such as those of the abdomen.
 
-* 
+* **rectitude**
+    * Moral integrity
+    * > The school superintendent was stern and not terribly popular, but no one questioned her moral rectitude.
+    * We might call a lawbreaker **crooked** or label him a **crook**. **Rectitude** may sound a little old-fashioned today, but the virtue it represents never really goes out of style.
+
+* **rectify**
+    * To set right; remedy
+    * > The college is moving to rectify this unfortunate situation before anyone else gets hurt.
+
+* **rectilinear**
+    * (1) Moving in or forming a straight line
+    * (2) Having many straight lines
+    * > After admiring Frank Lloyd Wright's rectilinear buildings for years, the public was astonished by the giant spiral of the Guggenheim Museum.
+    * In geometry, **rectilinear** usually means **perpendicular**; thus, a rectilinear polygon is a many-sided shape whose angles are all right angles (the footprints of most houses, with their extensions and garages, are good examples). But **rectilinear** is particularly used in physics. **Rectilinear** motion is motion in which the speed remains constant and the path is a straight line; and rectilinear years, such as light rays, travel in a straight line.
+
+* **directive**
+    * Something that guides or directs; especially, a general instruction from a high-level body or official
+    * > At the very beginning of the administration, the cabinet secretary had sent out a directive to all border-patrol personnel.
+
+## 7. **eu**
+* *Greek* **well**
+* In English words it can also mean **good** or **true**
+
+* **euthanasia**
+    * A veterinarian who performs euthanasia is providing a very sick or hopelessly injured animal a **good** or easy death
+
+* **eugenic**
+    * Relating to or fitted for the production of good offspring through controlled breeding
+    * > Eugenic techniques have been part of sheep breeding for many years.
+    * *Greek* **born**
+
+* **euphemism**
+    * An agreeable or inoffensive word or expression that is substituted for one that may offend or disgust
+    * > The Victorians, uncomfortable with the physical side of human existence, had euphemisms for most bodily functions.
+    * Golly and gosh started out as euphemisms for God, and darn is a familiar euphemism for damn. Shoot, shucks, and sugar are all euphemistic substitutes for a well-known vulgar word. Pass away for die, misspeak for lie, downsize for fire, senior citizen for old person —— the list goes on and on.
+
+* **euphoria**
+    * A strong feeling of well-being or happiness
+    * >  Swept in the euphoria of a Super Bowl victory, the whole city seemed to have poured out into the streets.
+    * **Euphoria** is the feeling of an intense (and usually temporary) **high**. When we win enough money in the lottery to buy several small Pacific islands, or even just when the home team wins the championship, we have good reason to feel **euphoric**.
+
+* **eulogy**
+    * (1) A formal speech or writing especially in honor of a dead person
+    * (2) High praise
+    * > The book was a fond eulogy to the 1950s, when Americans had joined social organizations of all kinds
+    * **-logy**, **eulogy** means literally something like **good speech**.
+
+## 8. **dys**
+* *Greek* **bad** or **difficult**
+* **dys-** is somethings close in meaning to **dis-**, but try not to confuse the two
+
+* **dysphagia**
+    * Dysphagia is difficult swallowing
+
+* **dyspnea**
+    * Difficult or labored breathing
+
+* **dysphasia**
+    * An inability to use and understand language because of injury to or disease of the brain.
+
+* **dystopia**
+    * An imaginary place where people lead dehumanized and often fearful lives
+    * For a 10-year-old British boy, boarding school could be a grim dystopia, with no comforts, harsh punishments, and constant bullying.
+    * **Dystopia** was created from **Utopia**, the name of an ideal country imagined by Sir Thomas More in 1516. For More, the **-topia** meant **place**, and **u-** meant **no**, but also perhaps **good**
+
+* **dyslexia**
+    * A disturbance or interference with the ability to read or to use language
+    * > She managed to deal with her dyslexia through careful tutoring all throughout elementary school.
+    * **Dyslexia** is a neurological disorder that usually affects people of average or superior intelligence.
+
+* **dyspeptic**
+    * (1) Relating to or suffering from indigestion
+    * (2) Having an irritable temperament; ill-humored
+    * > For decades the dyspeptic columnist served as the the newspaper's —— and the city's —— resident grouch.
+    * **Dyspepsia** comes from *Greek* for **bad digestion**. Interestingly, the *Greek* verb pessein can mean either **to cook** or **to digest**, bad cooking has been responsible for a lot of dyspepsia. Today we generally use **dyspeptic** to mean **irritable** —— that is, in the kind of mood that could be produced by bad digestion.
+    * **dys-**, **dysplasia** (with the **-plasia**, meaning **development**) is one of the more common, though not many nondoctors know it. A **dysplastic** mole —— a mole that changes shape in an odd way ——  is always something to be concerned about.
+
+## **Latin Borrowings**
+* **a fortiori**
+    * All the more certainly
+    * > If drug users are going to be subject to mandatory sentences, then, a fortiori, frug dealers should be subject to them also.
+    * A **fortiori** in *Latin* literally means **from the stronger(argument)**. The term is used when drawing a conclusion that's even more obvious or convincing than one just drawn.
+
+* **a posteriori**
+    * Relating to or derived by reasoning from known or observed facts
+    * > Most Presidents will come to the a posterior conclusion that a booming economy is entirely due to their own economic policies.
+    * A **posteriori**, *Latin* for **from the latter**, is a term from logic, which usually refers to reasoning that works backward from an effect to its causes.
+
+* **a priori**
+    * * Relating to or derived by reasoning from self-evident propositions.
+    * > Her colleagues rejected the a priori argument because it rested on assumptions they felt weren't necessarily true.
+    * A **prior**, *Latin* for **from the former**, is traditionally contrasted with a **posteriori**. The term usually describes lies of reasoning or arguments that proceed from the general to the particular, or from causes to effects.
+
+* **bona fide**
+    * (1) Made in good faith, without deceit
+    * (2) Authentic or genuine
+    * > According to the broker, they've made a bona fide offer to buy the property.
+    * **Bona fide** means **in good faith** in *Latin*. When applied to business deals and the like, it stresses the absence of fraud or deception. Outside of business and law, **bona fide** implies mere sincerity and earnestness. **Bona fide** also has the noun form **bona fides**; when someone asks about someone else's **bona fides**, it usually means evidence of their qualifications or achievements.
+
+* **carpe diem**
+    * Enjoy the pleasures or opportunities of the moment without concern about the future
+    * > When he learned the phase "Carpe diem" in high-school Latin class, he knew he'd found the motto he would live by for the rest of his life.
+    * **Carpe diem**, a phrase that comes from the Roman port Horace, means literally **Pluck the day**, though it's usually translated as **Seize the day**. A fre translation might be **Enjoy yourself while you have the chance**.
+
+* **caveat emptor**
+    * Let the buyer beware
+    * > The best rule to keep in mind when buying anything from a pushcart is: "Caveat emptor".
+    * **Without a warranty, the buyer must take the risk** is the basic meaning of the phrase **caveat emptor**
+
+* **corpus delicti**
+    * (1) The substantial and basic fact or facts necessary to prove that a crime has been committed
+    * (2) The material substance, such as the murdered body, on which a crime has been committed
+    * > The police believed they had solved the crime, but couldn't prove their case without the corpus delicti.
+    * **Corpus delicti** literally means **body of the crime** in *Latin**. In popular usage, **corpus delicti** also refers to the actual physical object upon which a crime has been committed. In a case of arson, it would be a ruined building; in a murder case, the victim's corpse.
+
+* **curriculum vitae**
+    * A short summary of one's career and qualifications, typically prepared by an applicant for a position; resume
+    * > The job advertisement asked for an up-to-date curriculum vitae and three recommendations.
+    * The *Latin* phrase **curriculum vitae**, often abbreviated CV, literally means **the course of one's life**. A short term is simply **vita**, meaning **life**. In other fields, resume is more commonly used in the US; in England, however, curriculum vitae is the usual term for any job application. 
+ 
