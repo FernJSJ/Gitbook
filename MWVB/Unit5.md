@@ -121,3 +121,53 @@
     * (2) To precede in time 
     * > Nantucket Island has hundreds of beautifully preserved houses that antedate the Civil War.
     * Antedating a check or contract isn't illegal unless it's done for the purpose of fraud (the same is true of its opposite, **postdating**)
+
+* **antecedent**
+    * (1) A word or phrase that is referred to by a pronoun that follows it
+    * (2) An event or cause coming before something
+    * > As I remember, she said "My uncle is taking my father, and he's staying overnight," but I'm not sure what the antecedent of "he" was.
+
+* **anterior**
+    * (1) Located before or toward the front or head
+    * (2) Coming before in time or development
+    * > When she moved up to join the first-class passengers in the plane's anterior section, she was delighted to recognize the governor in the next seat.
+    * **Anterior** generally appears in either medical or scholarly contexts. Scholar and lawyers may use **anterior** to mean **earlier in time or order**.
+
+## 5. **ortho**
+* *Greek* **straight**, **right**, or **true**
+
+* **orthotics**
+    * Orthotics** is a branch of therapy that straightens out your stance or posture by providing artificial support for weak joints or muscles.
+
+* **orthograde**
+    * Orthograde animals, such as human beings, walk with their bodies in a "straight" or vertical position
+
+* **orthodontics**
+    * A branch of dentistry that deals with the treatment and correction of crooked teeth and other irregularities.
+    * > A specialty in orthodontics would require three more years of study after completing her dentistry degree.
+
+* **orthodox**
+    * (1) Holding established beliefs, especially in religion
+    * (2) Conforming to established rules or traditions; conventional
+    * > The O'Briens remain orthodox Catholics, faithfully observing the time-honored rituals of their church.
+    * The steadfast holding of established beliefs that is seen in religious **orthodoxy** is apparent also in other kinds of orthodox behavior. **Unorthodox** thinking is known in business language as **thinking outside the box**
+
+* **orthopedics**
+    * The correction or prevention of deformities of the skeleton
+    * > For surgery to correct the child's spinal curvature, they were referred to the hospital's orthopedics section.
+    * Just as an **orthodontist** corrects crookedness in the teeth, an **orthopedist** corrects crookedness in the skeleton. **Orthopedics** is formed in part from the *Greek* word for **child**, and many **orthopedic** patients are in fact children.
+
+* **orthography**
+    * The spelling of words, especially spelling according to standard usage
+    * > Even such eloquent writers as George Washington and Thomas Jefferson were deficient in the skill of orthography.
+
+## 6. **rect**
+* *Latin* **straight** or **right**
+
+* **correct**
+    * To correct something is to make it right.
+
+* **rectangle**
+
+
+* 
