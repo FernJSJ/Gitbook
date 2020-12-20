@@ -84,7 +84,7 @@
 
 * **protagonist** 
     * The main character in a literary work
-    * Macbeth is the ruthlessly ambitious protagonist of Shakespeare's play, but it is his wife who pulls the strings.
+    * > Macbeth is the ruthlessly ambitious protagonist of Shakespeare's play, but it is his wife who pulls the strings.
     * A character wh opposes the hero is the **antagonist**, from a *Greek* verb that means literally **to struggle against**
 
 * **protocol**
@@ -137,7 +137,7 @@
 * *Greek* **straight**, **right**, or **true**
 
 * **orthotics**
-    * Orthotics** is a branch of therapy that straightens out your stance or posture by providing artificial support for weak joints or muscles.
+    * Orthotics is a branch of therapy that straightens out your stance or posture by providing artificial support for weak joints or muscles.
 
 * **orthograde**
     * Orthograde animals, such as human beings, walk with their bodies in a "straight" or vertical position
@@ -235,7 +235,7 @@
 
 * **dystopia**
     * An imaginary place where people lead dehumanized and often fearful lives
-    * For a 10-year-old British boy, boarding school could be a grim dystopia, with no comforts, harsh punishments, and constant bullying.
+    * > For a 10-year-old British boy, boarding school could be a grim dystopia, with no comforts, harsh punishments, and constant bullying.
     * **Dystopia** was created from **Utopia**, the name of an ideal country imagined by Sir Thomas More in 1516. For More, the **-topia** meant **place**, and **u-** meant **no**, but also perhaps **good**
 
 * **dyslexia**
