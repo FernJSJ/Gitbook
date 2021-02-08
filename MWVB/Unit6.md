@@ -67,3 +67,25 @@
 * **requisition**
     * A demand or request (such as for supplies) made with proper authority
     * > The teachers had grown impatient with having to submit a requisition for even classroom supplies.
+
+## 3. **ple/plen**
+* *Latin* **to fill**
+
+* **plenty**
+    * meaning basically **filled**
+
+* **complete**
+    * meaning **thoroughly filled**
+
+* **plenary**
+    * (1) Including all who have a right to attend
+    * (2) Complete in all ways
+    * > For the convention's plenary session, five thousand members gathered to hear a star speaker.
+    * **Plenary** often shows up in writing referring to the **plenary power** held by a government, and is particularly used for powers mentioned in a constitution. At a conference, the plenary sessions (unlike the various smaller "presentation", "workshops", "forums", and "seminars" that otherwise fill the day) try to bring everyone together in the same room.
+
+* **complement**
+    * (1) Something that fills up or makes perfect; the amount needed to make something complete
+    * (2) A counterpart
+    * > On the committee, the two young people provided an energetic complement to the older members.
+    * A complement fills out or balances something. **Complement** can also mean **the full quantity, number, or amount**; thus, a ship's complement of 
+
